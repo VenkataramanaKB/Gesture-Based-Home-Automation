@@ -8,6 +8,17 @@ My solution addresses this challenge using state-of-the-art Machine Learning alg
 This system boasts high precision and accuracy, resulting in efficient power savings. 
 Controlling devices is made even simpler with gesture-based controls.
 
+Tech Stack:
+
+->Computer Vision
+->Mediapipe
+->PyFirmata
+->Microcontroller
+->Microprocessor
+->Appliances
+
+
+
 
 ![image](https://github.com/VenkataramanaKB/Gesture-Based-Home-Automation/assets/121935454/81da0ec7-df9d-4b8c-b952-a439a89732b0)
 
